@@ -1,5 +1,4 @@
 import sqlite3
-import requests
 import re
 from tabulate import tabulate
 
